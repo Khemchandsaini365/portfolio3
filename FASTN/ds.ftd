@@ -65,7 +65,6 @@ document-image: $page.document-image
 apps: $page.apps
 login-button: $page.login-button
 site-url: $page.site-url
-
 -- ftd.column:
 spacing.fixed.em: 0.8
 width: fill-container
